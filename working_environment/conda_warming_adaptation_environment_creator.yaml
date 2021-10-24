@@ -1,0 +1,25 @@
+name: warming_adaptation_environment
+
+channels:
+- conda-forge
+
+dependencies:
+- basemap
+- cartopy
+- esmpy
+- h5netcdf
+- intake
+- ipython
+- ipykernel
+- jupyterlab
+- matplotlib
+- netcdf4
+- numpy
+- pandas
+- python=3.*
+- pyyaml
+- scipy
+- seaborn
+- statsmodels
+- xarray
+- xesmf
